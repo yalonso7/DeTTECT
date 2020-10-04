@@ -29,7 +29,7 @@
         "vue-resource": "^1.5.1",
         "vue-router": "^3.3.4",
         "vue-router-prefetch": "^1.6.0",
-        "vue-scrollto": "^2.18.1",
+        "vue-scrollto": "^2.18.2",
         "vue-showdown": "^2.4.1",
         "vue-simple-suggest": "^1.10.1",
         "vue-slider-component": "^3.2.2",
