@@ -21,7 +21,7 @@
         "js-yaml": "^3.14.0",
         "lodash": "^4.17.19",
         "moment": "^2.27.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.2",
         "sass-loader": "^8.0.2",
         "vue": "^2.6.11",
         "vue-directive-tooltip": "^1.6.3",
@@ -36,7 +36,7 @@
         "vue2-transitions": "^0.3.0",
         "vuejs-datepicker": "^1.6.2",
         "vuejs-smart-table": "0.0.5",
-        "webpack": "^4.43.0"
+        "webpack": "^5.1.1"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^4.4.6",
